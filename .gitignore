@@ -7,4 +7,9 @@ reference
 reference/
 ./reference
 __pycache__
-
+homework
+./homework
+./homework/*
+videos
+./videos
+./videos/*
