@@ -16,6 +16,7 @@
 - Failure to use f-strings will be penalized going forward
 - Do not submit .docx files for any assignments
 - Read instructor comments
+- Supplemental notebooks reminder
 - Grade distributions
 
 
