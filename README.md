@@ -10,6 +10,15 @@
 
 <br>
 
+### Module 3 (09-09 thru 09-15)
+
+- Use of IDLE will be penalized going forward 
+- Failure to use f-strings will be penalized going forward
+- Do not submit .docx files for any assignments
+- Read instructor comments
+- Grade distributions
+
+
 
 ### Module 2 (09-02 thru 09-08)
 
