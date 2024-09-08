@@ -10,18 +10,20 @@
 
 <br>
 
-### Module 3 (09-09 thru 09-15)
+### End Module 2 / Start of Module 3 (09-09 thru 09-15)
 
 - Use of IDLE will be penalized going forward 
 - Failure to use f-strings will be penalized going forward
 - Do not submit .docx files for any assignments
-- Read instructor comments
-- Supplemental notebooks reminder
+- Read instructor comments for submitted assignments
 - Grade distributions
+- Supplemental notebooks reminder
+- Module 2 homework solutions
+- Module 2 practice problem solutions
 
 
 
-### Module 2 (09-02 thru 09-08)
+### End of Module 1 / Start of Module 2 (09-02 thru 09-08)
 
 - Any code submissions should be in .py files (screenshots are OK when requested).
 Do not submit Jupyter Notebooks for assignments. 
