@@ -10,6 +10,19 @@
 
 <br>
 
+
+### End Module 3 / Start of Module 4 (09-16 thru 09-22)
+
+- Only use concepts covered in class for weekly assignments. 
+- Include docstrings for all submitted scripts. 
+- Go through supplemental notebook this week (important additional information)
+- Module 2 grade distributions
+- Module 3 homework solutions
+- Module 3 practice problem solutions
+
+
+
+
 ### End Module 2 / Start of Module 3 (09-09 thru 09-15)
 
 - Use of IDLE will be penalized going forward 
