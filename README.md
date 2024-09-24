@@ -10,6 +10,15 @@
 
 <br>
 
+### End Module 4 / Start of Module 5 (09-23 thru 09-29)
+
+- Include docstrings in assignments with name and date. 
+- Assignments increasingly be graded on whether they generate correct results
+rather than syntax. 
+-  Module 3 grade distributions
+- Module 4 homework solutions
+Module 4 practice problem solutions 
+
 
 ### End Module 3 / Start of Module 4 (09-16 thru 09-22)
 
