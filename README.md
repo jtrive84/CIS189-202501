@@ -10,6 +10,17 @@
 
 <br>
 
+### End Module 5 / Start of Module 6 (09-30 thru 10-06)
+
+- Please complete the prior module feedback questionnaire. 
+- Start thinking about final project (can use *Big Book of Small Python Projects* for inspiration).
+- Do not delete or alter test code in script templates.
+- Module 4 grade distributions
+- Module 5 homework solutions
+- Module 5 practice problem solutions 
+
+
+
 ### End Module 4 / Start of Module 5 (09-23 thru 09-29)
 
 - Include docstrings in assignments with name and date. 
@@ -17,7 +28,7 @@
 rather than syntax. 
 -  Module 3 grade distributions
 - Module 4 homework solutions
-Module 4 practice problem solutions 
+- Module 4 practice problem solutions 
 
 
 ### End Module 3 / Start of Module 4 (09-16 thru 09-22)
